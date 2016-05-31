@@ -2,6 +2,10 @@
 #Changelog#
 _______________________________
 
+## Version 1.11
+ - New alternate version with french summary, and title page compliant with relevant university guidelines
+ - minor layout changes (chapter 2 starts left)
+ - minor typo changes
 
 ## Version 1.10
  - Changed Chapter 1 (state of the art) for more clarity and addede a transverse classification of reconstruction methods.
