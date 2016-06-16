@@ -1,6 +1,10 @@
 
 #Changelog#
 _______________________________
+## Version 1.12
+ - english version has no same title page layout as french version
+ - added introduction figures to graphical table of figures
+ - minor typos
 
 ## Version 1.11
  - New alternate version with french summary, and title page compliant with relevant university guidelines
