@@ -5,6 +5,9 @@ _______________________________
  - english version has no same title page layout as french version
  - added introduction figures to graphical table of figures
  - minor typos
+ - fixed missing ref
+ - changed some illustrations so the manuscript is paper-printer friendly (coulour, light, size)
+ - now pages%4=0
 
 ## Version 1.11
  - New alternate version with french summary, and title page compliant with relevant university guidelines
