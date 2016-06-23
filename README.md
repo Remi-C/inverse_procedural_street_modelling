@@ -2,7 +2,8 @@
 #Changelog#
 _______________________________
 ## Version 1.12
- - english version has no same title page layout as french version
+ - english version has now same title page layout as french version
+ - added ANRT logo and grant number
  - added introduction figures to graphical table of figures
  - minor typos
  - fixed missing ref
