@@ -9,6 +9,7 @@ _______________________________
  - fixed missing ref
  - changed some illustrations so the manuscript is paper-printer friendly (coulour, light, size)
  - now pages%4=0
+ - French version "résumé long" proofreaded and corrected thanks to Coline C.
 
 ## Version 1.11
  - New alternate version with french summary, and title page compliant with relevant university guidelines
