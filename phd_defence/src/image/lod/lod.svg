@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="373.02219mm"
+   height="112.9152mm"
+   viewBox="0 0 1321.7321 400.09322"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="lod.svg"
+   inkscape:export-filename="W:\RemiCura\PROJETS\inverse_procedural_street_modelling\phd_defence\src\image\lod\lod.png"
+   inkscape:export-xdpi="110.89915"
+   inkscape:export-ydpi="110.89915">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="609.7403"
+     inkscape:cy="148.01934"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="657"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(639.41101,-416.9931)">
+    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\inverse_procedural_street_modelling\phd_defence\src\image\lod\lod_0.png"
+       xlink:href="lod_0.png"
+       width="187.1046"
+       height="400.09323"
+       preserveAspectRatio="none"
+       id="image4157"
+       x="-639.41101"
+       y="416.9931" />
+    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\inverse_procedural_street_modelling\phd_defence\src\image\lod\lod_1.png"
+       xlink:href="lod_1.png"
+       width="187.1046"
+       height="400.09323"
+       preserveAspectRatio="none"
+       id="image4168"
+       x="-450.30646"
+       y="416.9931" />
+    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\inverse_procedural_street_modelling\phd_defence\src\image\lod\lod_2.png"
+       xlink:href="lod_2.png"
+       width="187.1046"
+       height="400.09323"
+       preserveAspectRatio="none"
+       id="image4179"
+       x="-261.20184"
+       y="416.9931" />
+    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\inverse_procedural_street_modelling\phd_defence\src\image\lod\lod_3.png"
+       xlink:href="lod_3.png"
+       width="187.1046"
+       height="400.09323"
+       preserveAspectRatio="none"
+       id="image4190"
+       x="-72.09726"
+       y="416.9931" />
+    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\inverse_procedural_street_modelling\phd_defence\src\image\lod\lod_4.png"
+       xlink:href="lod_4.png"
+       width="187.1046"
+       height="400.09323"
+       preserveAspectRatio="none"
+       id="image4201"
+       x="117.00733"
+       y="416.9931" />
+    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\inverse_procedural_street_modelling\phd_defence\src\image\lod\lod_5.png"
+       xlink:href="lod_5.png"
+       width="187.1046"
+       height="400.09323"
+       preserveAspectRatio="none"
+       id="image4212"
+       x="306.11191"
+       y="416.9931" />
+    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\inverse_procedural_street_modelling\phd_defence\src\image\lod\lod_6.png"
+       xlink:href="lod_6.png"
+       width="187.1046"
+       height="400.09323"
+       preserveAspectRatio="none"
+       id="image4223"
+       x="495.21652"
+       y="416.9931" />
+  </g>
+</svg>
