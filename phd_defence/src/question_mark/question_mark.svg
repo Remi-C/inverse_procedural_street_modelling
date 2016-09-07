@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="87.875206mm"
+   height="161.85965mm"
+   viewBox="0 0 311.36884 573.51844"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="question_mark.svg"
+   inkscape:export-filename="W:\RemiCura\PROJETS\inverse_procedural_street_modelling\phd_defence\src\question_mark\querstion_mark.png"
+   inkscape:export-xdpi="251.18121"
+   inkscape:export-ydpi="251.18121">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4337"
+       x="-0.10979441"
+       width="1.2195888"
+       y="-0.069607601"
+       height="1.1392152">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.54543903"
+         id="feGaussianBlur4339" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4778">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.36864409;fill-rule:evenodd;stroke:#000000;stroke-width:0.04362565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect4780"
+         width="5.3662043"
+         height="5.383287"
+         x="142.56416"
+         y="139.14528"
+         rx="0.63107103"
+         ry="0.015147067"
+         transform="matrix(0.74665539,-0.66521104,0.66521104,0.74665539,0,0)" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-49.418429"
+     inkscape:cy="326.58938"
+     inkscape:document-units="px"
+     inkscape:current-layer="flowRoot4138"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="657"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-113.45208,-116.26618)">
+    <g
+       transform="matrix(20.292613,0,0,20.292613,-2683.619,-2243.0776)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4138">
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';fill:#a6a6a6;fill-opacity:1"
+         d="m 139.10086,122.18614 1.52,-4.52 q 2.84,-1.4 5.28,-1.4 3.08,0 5.16,1.8 2.12,1.76 2.12,4.36 0,1.72 -0.92,3.16 -0.92,1.44 -3.48,3.8 -2.44,2.2 -3.12,3.08 -0.64,0.84 -0.64,1.84 0,0.88 0.88,1.92 l -0.84,0.56 q -1.76,-1.12 -1.76,-2.92 0,-1.04 0.6,-2.08 0.64,-1.04 2.48,-3.04 1.76,-1.96 2.4,-3.12 0.68,-1.16 0.68,-2.36 0,-1.92 -1.4,-3.12 -1.36,-1.24 -3.52,-1.24 -2.8,0 -3.48,1.68 l -0.8,1.92 -1.16,-0.32 z"
+         id="path4151"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.14783704;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.59134819, 0.59134819;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 139.56366,122.2739 c 0.54757,-1.27767 1.06978,-3.8714 2.96187,-4.3308 1.89209,-0.4594 5.11587,-0.57016 7.56646,1.21963 2.45059,1.78979 1.29797,5.52821 -0.59736,7.93981 -1.89532,2.4116 -4.33368,3.91076 -4.99928,5.27557 -0.66559,1.36481 0.0573,2.95662 0.84271,4.08294"
+         id="path4153"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="czzzzc" />
+      <path
+         sodipodi:nodetypes="czzzzc"
+         inkscape:connector-curvature="0"
+         id="path4155"
+         d="m 139.56366,122.2739 c 0.54757,-1.27767 1.06978,-3.8714 2.96187,-4.3308 1.89209,-0.4594 5.11587,-0.57016 7.56646,1.21963 2.45059,1.78979 1.29797,5.52821 -0.59736,7.93981 -1.89532,2.4116 -4.33368,3.91076 -4.99928,5.27557 -0.66559,1.36481 0.0573,2.95662 0.84271,4.08294"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.29567409;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4337)" />
+      <g
+         style="display:inline"
+         id="g20977-2-8"
+         transform="matrix(-0.02936697,-0.02426397,-0.02426397,0.02936697,172.52359,134.25401)">
+        <g
+           id="g690-8-8-5"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,914.72455,328.88516)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path692-3-4-8"
+             d="m 8174,-2226.39 c -428.26,699.61 -2831.28,-518.22 -1636.07,-897.62 1195.2,-379.4 2103.27,134.42 1636.07,897.62"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g694-8-8-2"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(-0.00117388,0.00500971,-0.00500971,-0.00117388,904.79859,249.92113)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#106921;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path696-9-9-0"
+             d="m 8174,-2226.39 c -428.26,699.61 -2831.28,-518.22 -1636.07,-897.62 1195.2,-379.4 2103.27,134.42 1636.07,897.62"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g698-6-8-5"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path700-7-1-1"
+             d="M 2948.57,103.757 C 2263.59,429.536 479.387,643.24 674.286,1715.19 c 51.676,284.22 337.354,682.33 217.143,982.85 -104.104,260.26 -422.801,384.63 -537.143,651.43 -480.646,1121.51 820.104,2295.77 1691.424,2731.43 485.69,242.84 4298.72,1142 4777.15,1085.71 655.68,-77.14 1331.53,-329.99 1988.57,-297.14 921.51,46.08 2209.07,588.38 3108.57,228.57 1322.2,-528.88 2164.7,-3678.67 1417.1,-4800 C 12917.6,1668.78 12025,1169.79 11371.4,823.757 10426.5,323.482 8726.94,657.114 7668.57,560.899 6062.73,414.914 4385.14,-41.7223 2857.14,138.042"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g702-1-7-2"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path704-7-7-1"
+             d="M 2948.57,103.757 C 2263.59,429.536 479.387,643.24 674.286,1715.19 c 51.676,284.22 337.354,682.33 217.143,982.85 -104.104,260.26 -422.801,384.63 -537.143,651.43 -480.646,1121.51 820.104,2295.77 1691.424,2731.43 485.69,242.84 4298.72,1142 4777.15,1085.71 655.68,-77.14 1331.53,-329.99 1988.57,-297.14 921.51,46.08 2209.07,588.38 3108.57,228.57 1322.2,-528.88 2164.7,-3678.67 1417.1,-4800 C 12917.6,1668.78 12025,1169.79 11371.4,823.757 10426.5,323.482 8726.94,657.114 7668.57,560.899 6062.73,414.914 4385.14,-41.7223 2857.14,138.042"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g706-9-2-8"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path708-5-1-2"
+             d="M 3908.57,903.757 C 3466.29,1059.18 2853.59,1213.82 2685.71,1669.47"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g710-0-6-4"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path712-2-8-82"
+             d="M 3908.57,903.757 C 3466.29,1059.18 2853.59,1213.82 2685.71,1669.47"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g714-8-2-7"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path716-9-8-14"
+             d="m 1908.57,3429.47 c -165.42,428.89 -69.58,855.52 160,1222.86"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g718-9-7-5"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path720-3-7-28"
+             d="m 1908.57,3429.47 c -165.42,428.89 -69.58,855.52 160,1222.86"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g722-2-7-6"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path724-3-9-3"
+             d="m 3954.29,2320.9 c -757.6,499.11 -166.7,1683.62 411.42,2125.71"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g726-4-3-8"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path728-4-9-5"
+             d="m 3954.29,2320.9 c -757.6,499.11 -166.7,1683.62 411.42,2125.71"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g730-7-3-1"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path732-7-1-4"
+             d="m 4137.14,5623.76 c 856.47,210.89 1660.35,155.64 2445.72,571.43"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g734-8-8-41"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path736-4-6-0"
+             d="m 4137.14,5623.76 c 856.47,210.89 1660.35,155.64 2445.72,571.43"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g738-1-1-3"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path740-9-9-3"
+             d="m 6331.43,4206.61 c 760.13,322.9 1404.45,884.63 2148.57,1222.86"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g742-1-0-9"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path744-9-4-6"
+             d="m 6331.43,4206.61 c 760.13,322.9 1404.45,884.63 2148.57,1222.86"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g746-7-4-4"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path748-6-5-9"
+             d="m 9497.14,6458.04 c 809.56,-241.23 1486.56,-759.02 2319.96,-925.71"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g750-1-5-9"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path752-1-2-0"
+             d="m 9497.14,6458.04 c 809.56,-241.23 1486.56,-759.02 2319.96,-925.71"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g754-1-4-7"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path756-7-5-3"
+             d="m 12308.6,3200.9 c 50.1,560.77 66.8,1127.36 -228.6,1600"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g758-0-3-3"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path760-6-5-7"
+             d="m 12308.6,3200.9 c 50.1,560.77 66.8,1127.36 -228.6,1600"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g762-3-2-9"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,914.72455,328.88516)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path764-4-0-0"
+             d="m 8986.58,-3379.19 c 56.27,469.84 745.49,1232.97 194.29,1508.57"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g766-3-7-5"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,914.72455,328.88516)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path768-1-3-2"
+             d="m 8986.58,-3379.19 c 56.27,469.84 745.49,1232.97 194.29,1508.57"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g770-3-9-6"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path772-9-5-6"
+             d="m 9565.71,1212.33 c 657.29,312.63 972.39,887.28 1371.39,1451.43"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g774-4-1-5"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path776-3-4-9"
+             d="m 9565.71,1212.33 c 657.29,312.63 972.39,887.28 1371.39,1451.43"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g778-8-1-8"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path780-1-9-5"
+             d="m 5040,755.185 c 838.16,65.561 1577.6,207.262 2285.71,640.005"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g782-3-6-5"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path784-4-1-2"
+             d="m 5040,755.185 c 838.16,65.561 1577.6,207.262 2285.71,640.005"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="g20977-2-8-9"
+         transform="matrix(-0.02936697,-0.02426397,-0.02426397,0.02936697,173.2737,131.39046)">
+        <g
+           id="g690-8-8-5-0"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,914.72455,328.88516)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path692-3-4-8-0"
+             d="m 8174,-2226.39 c -428.26,699.61 -2831.28,-518.22 -1636.07,-897.62 1195.2,-379.4 2103.27,134.42 1636.07,897.62"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g694-8-8-2-3"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(-0.00117388,0.00500971,-0.00500971,-0.00117388,904.79859,249.92113)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#106921;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path696-9-9-0-7"
+             d="m 8174,-2226.39 c -428.26,699.61 -2831.28,-518.22 -1636.07,-897.62 1195.2,-379.4 2103.27,134.42 1636.07,897.62"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g698-6-8-5-3"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path700-7-1-1-5"
+             d="M 2948.57,103.757 C 2263.59,429.536 479.387,643.24 674.286,1715.19 c 51.676,284.22 337.354,682.33 217.143,982.85 -104.104,260.26 -422.801,384.63 -537.143,651.43 -480.646,1121.51 820.104,2295.77 1691.424,2731.43 485.69,242.84 4298.72,1142 4777.15,1085.71 655.68,-77.14 1331.53,-329.99 1988.57,-297.14 921.51,46.08 2209.07,588.38 3108.57,228.57 1322.2,-528.88 2164.7,-3678.67 1417.1,-4800 C 12917.6,1668.78 12025,1169.79 11371.4,823.757 10426.5,323.482 8726.94,657.114 7668.57,560.899 6062.73,414.914 4385.14,-41.7223 2857.14,138.042"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g702-1-7-2-9"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path704-7-7-1-4"
+             d="M 2948.57,103.757 C 2263.59,429.536 479.387,643.24 674.286,1715.19 c 51.676,284.22 337.354,682.33 217.143,982.85 -104.104,260.26 -422.801,384.63 -537.143,651.43 -480.646,1121.51 820.104,2295.77 1691.424,2731.43 485.69,242.84 4298.72,1142 4777.15,1085.71 655.68,-77.14 1331.53,-329.99 1988.57,-297.14 921.51,46.08 2209.07,588.38 3108.57,228.57 1322.2,-528.88 2164.7,-3678.67 1417.1,-4800 C 12917.6,1668.78 12025,1169.79 11371.4,823.757 10426.5,323.482 8726.94,657.114 7668.57,560.899 6062.73,414.914 4385.14,-41.7223 2857.14,138.042"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g706-9-2-8-4"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path708-5-1-2-4"
+             d="M 3908.57,903.757 C 3466.29,1059.18 2853.59,1213.82 2685.71,1669.47"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g710-0-6-4-8"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path712-2-8-82-7"
+             d="M 3908.57,903.757 C 3466.29,1059.18 2853.59,1213.82 2685.71,1669.47"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g714-8-2-7-2"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path716-9-8-14-9"
+             d="m 1908.57,3429.47 c -165.42,428.89 -69.58,855.52 160,1222.86"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g718-9-7-5-4"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path720-3-7-28-9"
+             d="m 1908.57,3429.47 c -165.42,428.89 -69.58,855.52 160,1222.86"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g722-2-7-6-2"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path724-3-9-3-1"
+             d="m 3954.29,2320.9 c -757.6,499.11 -166.7,1683.62 411.42,2125.71"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g726-4-3-8-8"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path728-4-9-5-0"
+             d="m 3954.29,2320.9 c -757.6,499.11 -166.7,1683.62 411.42,2125.71"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g730-7-3-1-0"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path732-7-1-4-5"
+             d="m 4137.14,5623.76 c 856.47,210.89 1660.35,155.64 2445.72,571.43"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g734-8-8-41-0"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path736-4-6-0-6"
+             d="m 4137.14,5623.76 c 856.47,210.89 1660.35,155.64 2445.72,571.43"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g738-1-1-3-2"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path740-9-9-3-1"
+             d="m 6331.43,4206.61 c 760.13,322.9 1404.45,884.63 2148.57,1222.86"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g742-1-0-9-1"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path744-9-4-6-7"
+             d="m 6331.43,4206.61 c 760.13,322.9 1404.45,884.63 2148.57,1222.86"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g746-7-4-4-2"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path748-6-5-9-1"
+             d="m 9497.14,6458.04 c 809.56,-241.23 1486.56,-759.02 2319.96,-925.71"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g750-1-5-9-2"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path752-1-2-0-0"
+             d="m 9497.14,6458.04 c 809.56,-241.23 1486.56,-759.02 2319.96,-925.71"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g754-1-4-7-1"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path756-7-5-3-3"
+             d="m 12308.6,3200.9 c 50.1,560.77 66.8,1127.36 -228.6,1600"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g758-0-3-3-7"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path760-6-5-7-4"
+             d="m 12308.6,3200.9 c 50.1,560.77 66.8,1127.36 -228.6,1600"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g762-3-2-9-4"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,914.72455,328.88516)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path764-4-0-0-1"
+             d="m 8986.58,-3379.19 c 56.27,469.84 745.49,1232.97 194.29,1508.57"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g766-3-7-5-3"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,914.72455,328.88516)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path768-1-3-2-5"
+             d="m 8986.58,-3379.19 c 56.27,469.84 745.49,1232.97 194.29,1508.57"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g770-3-9-6-6"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path772-9-5-6-4"
+             d="m 9565.71,1212.33 c 657.29,312.63 972.39,887.28 1371.39,1451.43"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g774-4-1-5-0"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path776-3-4-9-0"
+             d="m 9565.71,1212.33 c 657.29,312.63 972.39,887.28 1371.39,1451.43"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g778-8-1-8-4"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <path
+             id="path780-1-9-5-1"
+             d="m 5040,755.185 c 838.16,65.561 1577.6,207.262 2285.71,640.005"
+             vector-effect="non-scaling-stroke"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g782-3-6-5-3"
+           font-style="normal"
+           font-weight="400"
+           font-size="34.375"
+           transform="matrix(0.00117388,-0.00500971,0.00500971,0.00117388,884.49454,321.80161)"
+           stroke-miterlimit="4"
+           style="font-style:normal;font-weight:400;font-size:34.375px;font-family:'MS Shell Dlg 2';fill:none;stroke:#00ff2c;stroke-width:141.73199463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1">
+          <path
+             id="path784-4-1-2-2"
+             d="m 5040,755.185 c 838.16,65.561 1577.6,207.262 2285.71,640.005"
+             vector-effect="none"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.39423212;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.39423213, 0.39423213;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 149.48237,123.2324 0.39453,0.0372 0.01,-1.46094 -0.39258,-0.0435 z m 0.78711,0.08 0.39453,0.0435 0.0117,-1.4682 -0.39453,-0.0435 z m 0.78906,0.08 0.39454,0.0435 0.01,-1.4682 -0.39258,-0.0435 z m 0.78907,0.0871 0.39257,0.0372 0.0117,-1.4682 -0.39453,-0.0372 z m 0.78711,0.08 0.39453,0.0435 0.01,-1.4682 -0.39257,-0.0435 z"
+         id="path4761"
+         inkscape:connector-curvature="0" />
+      <image
+         sodipodi:absref="W:\RemiCura\PROJETS\inverse_procedural_street_modelling\phd_defence\src\image\querstion_mark_point.png"
+         y="6.5846987"
+         x="200.19745"
+         id="image4773"
+         xlink:href="file:///W:/RemiCura/PROJETS/inverse_procedural_street_modelling/phd_defence/src/image/querstion_mark_point.png"
+         preserveAspectRatio="none"
+         height="5.3710742"
+         width="5.2446961"
+         transform="matrix(0.74665539,0.66521104,-0.66521104,0.74665539,0,0)"
+         clip-path="url(#clipPath4778)" />
+    </g>
+  </g>
+</svg>
