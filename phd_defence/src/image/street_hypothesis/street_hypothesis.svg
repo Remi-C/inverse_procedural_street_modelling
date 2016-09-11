@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="240.06528mm"
+   height="127.70556mm"
+   viewBox="0 0 850.625 452.50001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="street_hypothesis.svg"
+   inkscape:export-filename="W:\RemiCura\PROJETS\inverse_procedural_street_modelling\phd_defence\src\image\street_hypothesis\street_hypothesis.png"
+   inkscape:export-xdpi="169.28999"
+   inkscape:export-ydpi="169.28999">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.72183817"
+     inkscape:cx="412.43675"
+     inkscape:cy="251.4384"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="657"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-7.1786847,-302.07159)"
+     style="opacity:1">
+    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\inverse_procedural_street_modelling\phd_defence\src\image\street_hypothesis\qgis-bin_2016-09-11_15-49-03.png"
+       xlink:href="qgis-bin_2016-09-11_15-49-03.png"
+       style=""
+       width="850.625"
+       height="452.5"
+       preserveAspectRatio="none"
+       id="image4142"
+       x="7.1786847"
+       y="302.07159" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:0.416309;fill-rule:evenodd;stroke:none;stroke-width:1.38535202;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 400.85198,739.81697 c 0.0622,-7.429 1.18036,-53.09357 2.48478,-101.47697 l 2.37166,-87.96989 -4.48227,-9.00479 c -5.86041,-11.77345 -12.29996,-18.24481 -22.12201,-22.23129 l -7.9904,-3.24307 -16.42735,2.38149 -16.42736,2.38148 L 173.81796,591.8528 9.3768951,663.0517 8.9997811,636.596 C 8.7923691,622.0454 9.1040731,609.6805 9.6924571,609.1185 10.280842,608.5565 127.96303,562.49248 271.20844,506.75408 414.45384,451.0157 534.21635,403.79212 537.34733,401.81281 l 5.69271,-3.59875 0.93301,-17.67322 c 0.51316,-9.72027 0.50344,-31.12436 -0.0216,-47.56465 l -0.95458,-29.89143 45.81835,0 45.81835,0 4.61729,5.36819 c 11.92396,13.86313 29.91796,21.41488 55.18264,23.15911 14.42253,0.99572 9.53772,2.03318 102.15978,-21.69729 24.6822,-6.32377 27.89102,-6.83001 43.29225,-6.83001 l 16.63416,0 -5.9e-4,30.82409 -6e-4,30.82408 -88.3156,24.07346 c -68.56344,18.68934 -90.32955,25.15245 -97.32038,28.89782 -10.34926,5.54464 -18.61646,12.55526 -46.89984,39.7712 -11.15935,10.73819 -39.1709,35.63082 -62.24785,55.31694 -42.92068,36.61408 -45.96197,39.79705 -54.92377,57.48225 -2.82897,5.5828 -3.85509,10.8611 -5.59728,28.7922 -1.66354,17.1217 -7.69266,136.04347 -7.66255,151.14027 l 0.006,3.1171 -46.40929,0 -46.4093,0 0.11319,-13.5072 -6e-5,0 z"
+       id="path4153"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 8.1582765,635.06139 335.22339,500.32103"
+       id="path4155"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 335.50712,501.05216 631.97246,399.92146 856.4848,330.40832"
+       id="path4167"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 588.07664,302.00016 15.67347,110.69388"
+       id="path4169"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 440.15827,754.57159 18.61225,-212.57143 144,-132.2449"
+       id="path4171"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:0.41630901;fill-rule:evenodd;stroke:#f0ff00;stroke-width:4.98325157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4175"
+       cx="-36.209415"
+       cy="594.20514"
+       rx="160.60785"
+       ry="98.375694"
+       transform="matrix(0.9472705,-0.32043502,0.32043502,0.9472705,0,0)" />
+    <ellipse
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:0.41630901;fill-rule:evenodd;stroke:#f0ff00;stroke-width:4.98325157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4175-1"
+       cx="368.94348"
+       cy="607.00519"
+       rx="220.0509"
+       ry="98.375694"
+       transform="matrix(0.9472705,-0.32043502,0.32043502,0.9472705,0,0)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4192"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';letter-spacing:0px;word-spacing:0px;fill:#676d00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(35.697246,335.45927)"><flowRegion
+         id="flowRegion4194"><rect
+           id="rect4196"
+           width="288.15323"
+           height="83.121124"
+           x="1.385352"
+           y="81.225647"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';fill:#676d00;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4198">constant</flowPara></flowRoot>    <flowRoot
+       transform="translate(331.48656,239.43711)"
+       xml:space="preserve"
+       id="flowRoot4192-8"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';letter-spacing:0px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#676d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"><flowRegion
+         id="flowRegion4194-9"><rect
+           id="rect4196-0"
+           width="288.15323"
+           height="83.121124"
+           x="1.385352"
+           y="81.225647"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#676d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /></flowRegion><flowPara
+         id="flowPara4198-2">varying</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4192-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#a20000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.9527435,-0.77117998,0.77117998,1.9527435,-0.46536369,416.67164)"><flowRegion
+         id="flowRegion4194-4"><rect
+           id="rect4196-2"
+           width="288.15323"
+           height="83.121124"
+           x="1.385352"
+           y="81.225647"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';fill:#a20000;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4198-8">axis</flowPara></flowRoot>  </g>
+</svg>
