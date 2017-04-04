@@ -1,6 +1,14 @@
 
 #Changelog#
 _______________________________
+## Version 2.0
+This version has been corredted and edit according to the remarks of my two rapporteur : Pfr. Van Oosterom and Pfr.Heipke, many thanks for their detailed suggestions.
+ - **whole thesis fixed according to suggestions from rapporteur**
+ - new state of the art in chap. 5 to include papers from the raod detection community
+ - Appendix 1 (LOD for Point CLoud Server) has been splît into two chapters to separate LOD and dimension descriptor. 
+ - added illustration of streetgen table structure.
+ - Published on HAL, etc.
+
 ## Version 1.12
  - english version has now same title page layout as french version
  - added ANRT logo and grant number
